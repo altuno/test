@@ -1,2 +1,3 @@
-Hello test Read Me.
-I made some changes remotely
+
+
+New remote changes to create conflict, deleted all before
